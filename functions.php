@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: ACF Custom Field Enabler
- * Plugin URI: https://www.your-site.com/
+ * Plugin URI: https://github.com/hulmannk/acf-custom-field-enabler
  * Description: ACF Custom Field Enabler seamlessly integrates standard WordPress custom fields with ACF.
  * Version: 1.0
  * Author: Kristof Hulmann
