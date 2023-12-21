@@ -12,8 +12,8 @@
  if ( ! defined( 'ABSPATH' ) ) {
     exit;
 }
-if ( current_user_can( 'manage_options' ) ) {
-    add_filter('acf/settings/remove_wp_meta_box', '__return_false');
-}
+
+ add_filter('acf/settings/remove_wp_meta_box', '__return_false');
+
 
 ?>
